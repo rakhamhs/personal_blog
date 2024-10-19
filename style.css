@@ -1,0 +1,21 @@
+.section-heading{
+    color:dodgerblue;
+    font-size:35px; 
+}
+
+.text-center{
+    text-align: center;
+}
+
+#profile-picture img{
+    height: 256px;
+    width: 256px;
+}
+
+#profile-picture{
+    width: 70%
+}
+
+#profile-desc{
+    width: 70%
+}
